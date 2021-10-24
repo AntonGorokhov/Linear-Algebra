@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gorohovanton/Documents/Универ/Линейная Алгебра/Proj/main.cpp
+iostream
+-
+math.h
+-
+vector
+-
+algorithm
+-
+cmath
+-
+
